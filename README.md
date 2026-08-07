@@ -2,7 +2,7 @@
   <summary><b>🇧🇷 Ler em Português</b></summary>
   <br>
   <p align="left">
-    Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal do Acre (UFAC). Sou um entusiasta da área de tecnologia e busco vivenciar esse ecossistema na prática, participando ativamente de eventos competitivos e de aprendizado, como maratonas de programação. Atualmente, participo como docente do Web Academy, programa de formação da Motorola para Desenvolvedores Full Stack. Meu objetivo é continuar evoluindo como desenvolvedor e contribuir com soluções que unam qualidade, organização e aprendizado constante.
+    Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal do Acre (UFAC). Sou um entusiasta da área de tecnologia e busco vivenciar esse ecossistema na prática, participando ativamente de eventos competitivos e de aprendizado, como maratonas de programação. Atualmente, participo como discente do Web Academy, programa de formação da Motorola para Desenvolvedores Full Stack. Meu objetivo é continuar evoluindo como desenvolvedor e contribuir com soluções que unam qualidade, organização e aprendizado constante.
   </p>
 </details>
 
