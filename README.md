@@ -1,13 +1,20 @@
-### 👨‍💻 Futuro Desenvolvedor Full Stack
+<details align="right">
+  <summary><b>🇧🇷 Ler em Português</b></summary>
+  <br>
+  <p align="left">
+    Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal do Acre (UFAC). Sou um entusiasta da área de tecnologia e busco vivenciar esse ecossistema na prática, participando ativamente de eventos competitivos e de aprendizado, como maratonas de programação. Atualmente, participo como docente do Web Academy, programa de formação da Motorola para Desenvolvedores Full Stack. Meu objetivo é continuar evoluindo como desenvolvedor e contribuir com soluções que unam qualidade, organização e aprendizado constante.
+  </p>
+</details>
 
-Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistemas de Informação na Universidade Federal do Acre (UFAC). Sou um entusiasta da área de tecnologia e busco vivenciar esse ecossistema na prática, participando ativamente de eventos competitivos e de aprendizado, como maratonas de programação. Atualmente, participo como docente do Web Academy, programa de formação da Motorola para Desenvolvedores Full Stack. Meu objetivo é continuar evoluindo como desenvolvedor e contribuir com soluções que unam qualidade, organização e aprendizado constante.
+### 👨‍💻 Future Full Stack Developer
 
+My name is Sávio Monteiro dos Santos, I am 20 years old, and I am an Information Systems student at the Federal University of Acre (UFAC). I am a technology enthusiast who seeks to experience this ecosystem in practice, actively participating in competitive and learning events, such as programming marathons. Currently, I participate as an instructor at Web Academy, a Motorola training program for Full Stack Developers. My goal is to continue evolving as a developer and contribute with solutions that combine quality, organization, and constant learning.
 
 #
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">Onde me encontrar:</h3>
+<h3 align="left">Where to find me:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saviomonteiro2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/sávio-monteiro-9b30b0335)
@@ -15,7 +22,7 @@ Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistema
 
 ---
 
-### 💻 Tecnologias em Desenvolvimento (Foco Atual: Front-end)
+### 💻 Technologies in Development (Current Focus: Front-end)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="padding-right: 10px;"/>
@@ -30,14 +37,11 @@ Meu nome é Sávio Monteiro dos Santos, tenho 20 anos e sou estudante de Sistema
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=savio-msantos&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />&nbsp;&nbsp;
+  <img height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=savio-msantos&show_icons=true&locale=en&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />&nbsp;&nbsp;
   <img height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=savio-msantos&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
 </p>
 
-
-
 ---
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
