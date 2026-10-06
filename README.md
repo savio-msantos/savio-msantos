@@ -6,7 +6,7 @@
   </p>
 </details>
 
-### 👨‍💻 Future Full Stack Developer
+### Full Stack Developer
 
 My name is Sávio Monteiro dos Santos, I am 20 years old, and I am an Information Systems student at the Federal University of Acre (UFAC). I am a technology enthusiast who seeks to experience this ecosystem in practice, actively participating in competitive and learning events, such as programming marathons. Currently, I participate as an instructor at Web Academy, a Motorola training program for Full Stack Developers. My goal is to continue evolving as a developer and contribute with solutions that combine quality, organization, and constant learning.
 
