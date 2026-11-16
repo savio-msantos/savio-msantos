@@ -34,15 +34,6 @@ My name is Sávio Monteiro dos Santos, I am 20 years old, and I am an Informatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=savio-msantos&show_icons=true&locale=en&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=savio-msantos&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
-</p>
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
